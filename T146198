@@ -1,0 +1,4 @@
+ExternalData should not use Article::fetchContent() anymore
+https://phabricator.wikimedia.org/T146198
+
+Patch : https://gerrit.wikimedia.org/r/313399
