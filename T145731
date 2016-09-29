@@ -1,0 +1,4 @@
+LiquidThreads should not call Article::getContent()
+https://phabricator.wikimedia.org/T145731
+
+Patch : https://gerrit.wikimedia.org/r/#/c/312643/aa
