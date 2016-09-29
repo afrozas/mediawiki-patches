@@ -1,0 +1,4 @@
+Article::doEdit() and WikiPage::doEdit() are deprecated
+https://phabricator.wikimedia.org/T145736
+
+Patch : https://gerrit.wikimedia.org/r/#/c/313021/
