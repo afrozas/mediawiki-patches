@@ -1,0 +1,4 @@
+Echo's ContainmentSet::getValues should not use deprecated $article->getText() 
+https://phabricator.wikimedia.org/T146994
+
+Patch : https://gerrit.wikimedia.org/r/313429
