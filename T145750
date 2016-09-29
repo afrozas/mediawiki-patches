@@ -1,0 +1,4 @@
+WikiPage::getText() is deprecated
+https://phabricator.wikimedia.org/T145750
+
+Patch : https://gerrit.wikimedia.org/r/#/c/312744/a
