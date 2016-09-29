@@ -1,0 +1,4 @@
+CentralNotice should not call WikiPage::doEdit()
+https://phabricator.wikimedia.org/T145738
+
+Patch : https://gerrit.wikimedia.org/r/#/c/310940/
