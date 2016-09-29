@@ -1,0 +1,4 @@
+OpenStackManager should not call WikiPage::getText()
+https://phabricator.wikimedia.org/T145753
+
+Patch : https://gerrit.wikimedia.org/r/#/c/312636/
